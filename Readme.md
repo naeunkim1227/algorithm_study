@@ -1,2 +1,2 @@
-## algorithm + ÄÚµùÅ×½ºÆ®¸¦ À§ÇÑ repository
+## algorithm + ì½”ë”©í…ŒìŠ¤íŠ¸ë¥¼ ìœ„í•œ repository
 
