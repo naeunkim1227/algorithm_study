@@ -1,4 +1,4 @@
-package two;
+package uppercase;
 
 import java.util.Scanner;
 

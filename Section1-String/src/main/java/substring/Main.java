@@ -1,4 +1,4 @@
-package three;
+package substring;
 
 import java.util.Scanner;
 

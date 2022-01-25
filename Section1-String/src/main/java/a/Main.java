@@ -1,4 +1,4 @@
-package one;
+package a;
 import java.util.Scanner;
   
 class Main {
