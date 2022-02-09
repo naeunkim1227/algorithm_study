@@ -2,7 +2,7 @@ package stringbuider;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//단어뒤집기
 public class Main {
 	
 	public ArrayList<String> solution(int n,String[] str) {

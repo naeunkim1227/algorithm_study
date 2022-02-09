@@ -1,7 +1,7 @@
 package tochararray;
 
 import java.util.Scanner;
-
+//5.특정문자뒤집기
 public class Main {
 
 	public String solution(String str) {

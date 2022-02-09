@@ -1,8 +1,8 @@
-package a;
+package S1_1;
 import java.util.Scanner;
   
-class Main {
-	
+class S1_01 {
+	//1.문자찾기
 	
 	//프로그래머스 방식..
 	public int solution(String str,char t) {
@@ -33,7 +33,7 @@ class Main {
 		
 		//solution사용하려고 선언함 solution이 인스턴스 메소드이기 때문에
 		//static이면 아래와 같이 선언할 필요 x
-		Main T = new Main();
+		S1_01 T = new S1_01();
 		
 		Scanner kb = new Scanner(System.in);
 		

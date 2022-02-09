@@ -1,7 +1,7 @@
 package substring;
 
 import java.util.Scanner;
-
+//문장속단어
 class Main {
 
 	public String solution(String str) {
