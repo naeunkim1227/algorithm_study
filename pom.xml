@@ -10,5 +10,14 @@
   	<module>section1-String</module>
   	<module>Section2-Array</module>
   	<module>Section1-String</module>
+  	<module>Section3-Twopointers</module>
+  	<module>Section4-HashMap,Treeset</module>
+  	<module>Section5-Stack-Queue</module>
+  	<module>Section6-SortingandSearching</module>
+  	<module>Section7-Recursive-Tree-Grap</module>
+  	<module>Section8-DFS-BFS</module>
+  	<module>Section9-GreedyAlgorithm</module>
+  	<module>Section10-dynamicprogramming</module>
+  	<module>Section4-HashMap-TreeSet</module>
   </modules>
 </project>
