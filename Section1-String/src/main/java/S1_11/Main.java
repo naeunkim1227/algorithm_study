@@ -12,10 +12,7 @@ import java.util.Scanner;
   
   cnt는 다시 1로 초기화
   cnt가 1이면 cnt 누적x
-  
-  
-  
-  
+   
  
  */
 public class Main {
