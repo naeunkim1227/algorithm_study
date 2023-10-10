@@ -6,12 +6,10 @@
   <packaging>pom</packaging>
   <modules>
   	<module>test</module>
-  	<module>test1</module>
-  	<module>section1-String</module>
+	<module>section1-String</module>
   	<module>Section2-Array</module>
   	<module>Section1-String</module>
   	<module>Section3-Twopointers</module>
-  	<module>Section4-HashMap,Treeset</module>
   	<module>Section5-Stack-Queue</module>
   	<module>Section6-SortingandSearching</module>
   	<module>Section7-Recursive-Tree-Grap</module>
