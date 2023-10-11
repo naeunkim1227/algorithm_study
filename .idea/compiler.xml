@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Section9-GreedyAlgorithm" />
+        <module name="test" />
+        <module name="Section1-String" />
+        <module name="Section7-Recursive-Tree-Grap" />
+        <module name="backJun2023" />
+        <module name="Section6-SortingandSearching" />
+        <module name="Section10-dynamicprogramming" />
+        <module name="Section8-DFS-BFS" />
+        <module name="Section2-Array" />
+        <module name="Section3-Twopointers" />
+        <module name="Section4-HashMap-TreeSet" />
+        <module name="Section5-Stack-Queue" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
